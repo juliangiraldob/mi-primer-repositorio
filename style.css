@@ -1,0 +1,26 @@
+div{
+    background-color: lightsteelblue;
+}
+
+h1{
+    color:royalblue;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color:rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+img{
+    width: 300xp;
+    height: 300xp;
+    border-radius: 50%;
+}
+
+.OtroDiv{
+    background-color: darkslategrey;
+}
